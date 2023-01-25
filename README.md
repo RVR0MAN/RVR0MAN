@@ -33,7 +33,7 @@
 ### Hi there 👋
 
 ### :man_technologist: About Me :
-I am a BackEnd Developer from Russia. <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
+I am a Full Stack Developer from Russia. <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
         
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
