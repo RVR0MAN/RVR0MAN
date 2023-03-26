@@ -20,7 +20,7 @@
 
 <h3 align ="center">
   Be my guest
-  <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="100%"/>
+  <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="40px"/>
 </h3>
 
 <br>
@@ -33,7 +33,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400"/>
 </div>
 
 ### Hi there 👋
