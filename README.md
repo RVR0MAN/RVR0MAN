@@ -20,7 +20,7 @@
 
 <h3 align ="center">
   Be my guest
-  <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="40px"/>
+  <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="100%"/>
 </h3>
 
 <br>
