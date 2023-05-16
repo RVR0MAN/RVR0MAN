@@ -25,7 +25,8 @@
 ###  Немного информации обо мне :
 Меня зовут Роман, я Java разработчик из Москвы. 
         
-- :telescope: В прошлом, я работал с программным продуктом <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> на протяжении 5 лет.Сейчас я глубоко погружен в изучение языка Java и языков веб-разработки. Я прошел полный курс обучения Java-разработчика в специлизированной, образовательной организации Netology и имею сертификаты, подтверждающие мои навыки.
+- :telescope: В прошлом, я работал с программным продуктом <a href="https://www.sap.com/cis/index.html?url_id=auto_hp_redirect_cis"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> </a> на протяжении 5 лет.Сейчас я глубоко погружен в изучение языка Java и языков веб-разработки. Я прошел полный курс обучения Java-разработчика в специлизированной, образовательной организации Netology и имею сертификаты, подтверждающие мои навыки.  
+
 - :zap: Свободное время посвящаю совершенствованию своих навыков разработчика, изучению технической литературы и решению различных задач. 
 
 - :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
