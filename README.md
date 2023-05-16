@@ -5,18 +5,15 @@
 
 <div id="header" align="center">
   <p>Contact me:</p>
-</div>
-
-<div id="badges" align="center">
- <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
- <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="35px" height="30px" />
+   <a href="https://wa.me/89685138761?text=Здравствуйте!">
+  <img src="https://f.nodacdn.net/410048" alt="WhatsApp Badge" width="90px" height="30px"/>
   </a>
   <a href="https://t.me/RVRoman">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="130px" height="30px"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="100px" height="30px"/>
   </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
 </div>
+
+
 
 <br>
 
@@ -29,7 +26,17 @@
 
 - :zap: Свободное время посвящаю совершенствованию своих навыков разработчика, изучению технической литературы и решению различных задач. 
 
-- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
+- :mailbox:Ознакомиться более подробно с моим опытом, можно на таких ресурсах, как: 
+<div id="badges" align="center">
+ <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
+ <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="35px" height="30px" />
+  </a>
+  <a href="https://t.me/RVRoman">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="130px" height="30px"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
+</div>
 
 
 ---
