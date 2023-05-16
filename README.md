@@ -1,16 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <p>Contact me:</p>
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/roman-kalistratov-684339262/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://instagram.com/monsieur_pathfinder?igshid=ZDdkNTZiNTM=">
-  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+ <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
+ <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="40px" height="40px" />
   </a>
   <a href="https://t.me/RVRoman">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="150px" height="40px"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
@@ -24,17 +22,8 @@
 </h3>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="400"/>
-</div>
+
 
 ### Hi there 👋
 
@@ -47,7 +36,7 @@ I am a Full Stack Developer from Russia. <img src="https://media.giphy.com/media
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roman-kalistratov-684339262/)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
 
 
 ---
@@ -65,9 +54,6 @@ I am a Full Stack Developer from Russia. <img src="https://media.giphy.com/media
 
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rvr0man&theme=violet-punch&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvr0man&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
