@@ -30,11 +30,9 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Russia. <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
         
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :telescope: In the past, I worked with <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> software product for 5 years. Now I am deeply studying the Java language and aspire to become a Full Stack developer and master this programming language perfectly. I completed a full Java developer training course at an educational organization and have certificates that confirm my skills.
+- 
+- :zap: I devote my free time to improving my skills as a developer, studying technical literature and solving various problems.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
 
