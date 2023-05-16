@@ -17,7 +17,7 @@
 
 
 <h3 align ="center">
-  Be my guest
+    Be my guest
   <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="40px"/>
 </h3>
 
@@ -25,15 +25,15 @@
 
 
 
-### Hi there 👋
+### Привет <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
 
-### :man_technologist: About Me :
-I am a Java Developer from Russia. <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
+### 🧙‍♂️ Немного информации обо мне :
+Меня зовут Роман, я Java разработчик из Москвы. 
         
-- :telescope: In the past, I worked with <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> software product for 5 years. Now I am deeply studying the Java language and web development languages. I completed a full Java developer training course at an educational organization and have certificates that confirm my skills.  
-- :zap: I devote my free time to improving my skills as a developer, studying technical literature and solving various problems.
+- :telescope: В прошлом, я работал с программным продуктом <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> на протяжении 5 лет.Сейчас я глубоко изучаю язык Java и языки веб-разработки. Я прошел полный курс обучения Java-разработчика в образовательной организации и имею сертификаты, подтверждающие мои навыки.
+- :zap: Свободное время посвящаю совершенствованию своих навыков разработчика, изучению технической литературы и решению различных задач. 
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
+- :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
 
 
 ---
@@ -45,6 +45,8 @@ I am a Java Developer from Russia. <img src="https://media.giphy.com/media/qylEp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" title="Maven" alt="Maven" width="80" height="40"/>&nbsp;
+  
   </div>
 
 
