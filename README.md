@@ -1,36 +1,31 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p>Contact me:</p>
-</div>
-
-<div id="badges" align="center">
- <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
- <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="40px" height="40px" />
-  </a>
-  <a href="https://t.me/RVRoman">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="150px" height="40px"/>
-  </a>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
-</div>
-
-
-
 <h3 align ="center">
     Be my guest
   <img src="https://media.giphy.com/media/YRVxMztzdMb0t7PTBw/giphy.gif" width="40px"/>
 </h3>
 
+<div id="header" align="center">
+  <p>Contact me:</p>
+</div>
+
+<div id="badges" align="center">
+ <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
+ <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="35px" height="30px" />
+  </a>
+  <a href="https://t.me/RVRoman">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="130px" height="30px"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
+</div>
+
 <br>
 
+### Привет!
 
-
-### Привет <img src="https://media.giphy.com/media/qylEpU6DdBJ90tmAJm/giphy.gif" width="60"> 
-
-### 🧙‍♂️ Немного информации обо мне :
+###  Немного информации обо мне :
 Меня зовут Роман, я Java разработчик из Москвы. 
         
-- :telescope: В прошлом, я работал с программным продуктом <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> на протяжении 5 лет.Сейчас я глубоко изучаю язык Java и языки веб-разработки. Я прошел полный курс обучения Java-разработчика в образовательной организации и имею сертификаты, подтверждающие мои навыки.
+- :telescope: В прошлом, я работал с программным продуктом <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/SAP-Logo.svg"  alt="Логотип SAP" width="40px" height="20px" /> на протяжении 5 лет.Сейчас я глубоко погружен в изучение языка Java и языков веб-разработки. Я прошел полный курс обучения Java-разработчика в образовательной организации и имею сертификаты, подтверждающие мои навыки.
 - :zap: Свободное время посвящаю совершенствованию своих навыков разработчика, изучению технической литературы и решению различных задач. 
 
 - :mailbox:Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RVRoman)
