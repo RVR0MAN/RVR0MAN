@@ -31,8 +31,8 @@
  <a href="https://malahovka.hh.ru/resume/a69dfc14ff0b401c200039ed1f4b493869366f?hhtmFrom=account_login" >
  <img src="https://toplogos.ru/images/thumbs/preview-logo-hh-ru.png"  alt="Логотип hh.ru" width="35px" height="30px" />
   </a>
-  <a href="https://t.me/RVRoman">
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" width="130px" height="30px"/>
+  <a href="https://www.linkedin.com/in/roman-kalistratov-684339262/">
+  <img src="https://3.bp.blogspot.com/-FoGVzTQj4wU/XsOD7GDVkcI/AAAAAAAAG6s/TYr1LB8wMZI-BExS85TiRbMkaEaxFpkFgCK4BGAYYCw/s1600/LinkedIn%2BLogo%2BLinchi%2BKwok%2BBlog.jpg" alt="LinkedIn Badge" width="60px" height="30px"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
