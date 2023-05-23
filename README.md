@@ -34,6 +34,9 @@
   <a href="https://www.linkedin.com/in/roman-kalistratov-684339262/">
   <img src="https://3.bp.blogspot.com/-FoGVzTQj4wU/XsOD7GDVkcI/AAAAAAAAG6s/TYr1LB8wMZI-BExS85TiRbMkaEaxFpkFgCK4BGAYYCw/s1600/LinkedIn%2BLogo%2BLinchi%2BKwok%2BBlog.jpg" alt="LinkedIn Badge" width="60px" height="30px"/>
   </a>
+     <a href="https://career.habr.com/profile/experiences">
+  <img src="https://www.ferra.ru/imgs/2020/02/08/11/3768490/246087a0cccc9763930b2fa5d6f632368801b6ec.jpg" alt="LinkedIn Badge" width="70px" height="30px"/>
+  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=rvr0man&style=plastic-square&color=blue" alt=""/>
 </div>
